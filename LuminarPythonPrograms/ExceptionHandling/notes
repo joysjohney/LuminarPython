@@ -1,0 +1,15 @@
+Exception (24/08/2020)
+---------
+> It is an abnormal code or case terminate normal flow of program
+
+
+Exception Handing
+-----------------
+try:
+    #doubt full code
+
+except:
+    #handling code
+
+finally:
+    #clean up processing

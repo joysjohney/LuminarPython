@@ -1,0 +1,31 @@
+decision making
+================
+
+if else
+-------
+if(condition):
+    stmnt1
+    stmnt2
+    .
+    .
+
+else:
+
+    elsestmnt1
+    elsestmnt2
+    .
+    .
+
+
+
+
+if elif
+-------
+if(condition1):
+    stmnt1
+elif:(condition2)
+       stmnt2
+elif:(condition3)
+    stmnt3
+else:
+    stmnt

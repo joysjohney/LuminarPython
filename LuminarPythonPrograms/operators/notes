@@ -1,0 +1,40 @@
+(22/07/2020)
+==============
+
+Arithmetic operators
+-----------------------
++ add
+- sum
+* mul
+/ div
+% mod
+//
+**
+
+
+Relational operator
+------------------------
+<
+>
+<=
+>=
+==
+
+
+Logical operators
+---------------------
+
+& AND
+| OR
+^ XOR
+
+x  y   x&y  x|y  x^y
+0  1    0    1    1
+0  0    0    0    0
+1  1    1    1    0
+1  0    0    1    1
+
+
+compound assignment
+-------------------
+increment ++ and decrement -- operator not supported in python

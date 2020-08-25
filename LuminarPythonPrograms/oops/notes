@@ -1,0 +1,32 @@
+Object Oriented Programming (10/08/2020)
+===========================
+1) Class
+2) Object
+3) Reference
+
+
+class
+-----
+
+
+Different type of variable
+---------------------------
+1) Instance variable
+2) Dynamic variable
+3)
+
+
+
+Inheritance (11/08/2020)
+===========
+parent  super   base
+child   sub     derived
+
+
+
+Polymorphism (12/08/2020)
+=============
+> many forms
+    > Method overloading - same method name but different number of arguments
+    > Method overriding - parent class and child class same method
+    > Operator overloading - give new meaning

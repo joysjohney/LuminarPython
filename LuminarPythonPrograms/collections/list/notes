@@ -1,0 +1,9 @@
+1) List
+----------
+. lst=[] >it will create empty list
+. print(type(lst))
+
+> type of data we can store both same and different type of data
+> we can store duplicate values
+> insertion order is preserved
+> list is mutable

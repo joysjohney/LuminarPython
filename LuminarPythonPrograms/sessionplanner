@@ -1,0 +1,260 @@
+Python ->dynamically typed pl
+
+Applications of python->webapplication,MachineLearning,Datascience etc
+
+Python3
+
+Backward Compactibility issue Python3
+
+
+Django?Framework?
+
+Library->collection of modules,classes
+
+Math->math.sqrt(20)
+
+
+******************(22/07/2020)***************
+
+1) Identifiers
+   ===========
+
+name is called an identifier
+
+name="luminar Technolab"
+#name
+
+
+def printName():
+    print("Luminar")
+
+
+
+printName()function name
+
+
+
+class PersonData:
+    pass
+
+Perosn=>class name
+
+rules stds
+
+
+
+2) Input&Output Function
+    ===================
+cout printf sop console.log  =>print "hvhhvh" o/p
+
+
+cin scanf Scanner prompt=>input()
+
+
+
+
+3) Opertor
+   ========
+A.O(+,-,*,/,**,%,//)
+9/2=4.5
+9//2=4
+
+
+RelationalOp(<,>,<=,>=,==)
+
+LogicalOperator(AND,OR,XOR,&,|,^)
+
+
+
+
+
+***********(23/07/2020)*****************
+
+> incrmnt decrmt(++,--) not supported in python
+
+> compoundassignment
+    num=10
+    num+=1 #num=num+1
+
+
+4) datatypes
+   ===========
+byte ->short-> int-> long-> float-> double-> char->str   boolean
+
+str
+int
+float
+boolean=0,1 True False
+
+
+
+
+5) FlowControls
+   ============
+    print("u can vote")
+    print("u cant vote")
+
+    print("hello")
+    1)DecisionMaking(if,if...else,if....elif....else)
+
+ ***************************(24/07/2020)***************************************************
+
+    2)Looping(while,for)
+
+ *******************(27/07/2020)*******************************************
+
+    3)jumping(break,continue,pass)
+
+
+
+
+***********************(29/07/2020)*************************************************
+
+6) functions
+   =========
+
+    to perform a particular task
+    print()
+    input()
+    num=10
+    def add(no1,no2):
+        return no1+no2
+
+    add(10,20)
+
+    f=lambda no1,no2:no1+no2
+
+
+
+
+
+*****************************(30/07/2020)********************************************************
+
+7) Python Collections
+  ===================
+"Array"=>collection of homogeneous data reference by using common name
+
+> list
+
+------------------------------(04/08/2020)------------------------------------------------------------------------
+
+> tuple
+> set
+
+---------------------------(05/05/2020)----------------------------------------------------------------------------
+
+> dictionary
+
+
+
+8) File I/O
+   =========
+to store the data
+file operations
+
+Read r
+Write w
+Append a
+
+================================python core completed===================================================================================
+
+
+
+
+
+*********************************************************************************************************************************************
+********************************************************************************************************************************************
+
+
+
+
+
+***Advanced Python***
+   ===============
+
+
+1) OOP  (10/08/2020)
+  ======
+
+1)class => base model,blue print,plan,design laptop,tv
+2)object => realworld entity acerlaptop,hpnote5,lenovo,mitv
+3)reference => remote
+
+-------------------------------------(11/08/2020)----------------------------------------------------------
+
+> inheritance
+
+------------------------------------(12/08/2020)-----------------------------------------------------------
+
+> polymorphism (method overloading,method overriding,operator overloading)
+
+
+-------------------------------------(13/08/2020)--------------------------------------------------------------
+
+2) FunctionalProgramming
+   ======================
+  >  lambda functions
+  >  map()
+  >  filter()
+  >  reduce()
+  >  list comprehension (24/08/2020)
+
+------------------------------------(17/08/2020)-----------------------------------------------------------------
+
+3) regularExpression
+   ================
+pattern matching re
+
+
+
+-------------------------------------(24/08/2020)-----------------------------------------------------------------
+
+
+4) ExceptionHandling
+   ================
+
+no1=10
+no2=0
+res=no1/no2
+print(res)
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+5) Mysql
+   =====
+  sql queriesCRUD
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+6) Python to Database Connection
+   =================================
+
+
+
+
+
+
+7) Git and Github(vcs)version control system
+   ===========================================
+
+
+
+
+
+frontend
+========
+html
+css
+bootstrap
+javascript
+ajax,jquery
+
+
+
+backend
+=======
+python(Django)
+Mysql,sqllite

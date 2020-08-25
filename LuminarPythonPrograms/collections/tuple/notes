@@ -1,0 +1,7 @@
+2) Tuple (04/08/2020)
+---------
+> define() - paranthesis
+> possible to store different data
+> duplicate is allowed
+> insertion order is preserved
+> tuple objects are immutable

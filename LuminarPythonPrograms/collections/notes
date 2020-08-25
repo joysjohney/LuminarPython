@@ -1,0 +1,30 @@
+collections (30/07/2020)
+===========
+> collection objects
+    - list
+    - tuple
+    - set
+    - dictionary
+
+> common features
+------------------
+. define?
+. is it possible to store homogeneous data and heterogeneous data?
+. duplicate allowed or not?
+. insertion order is preserved or not?
+. mutable or immutable?
+
+
+
+collection name     define      differentypeofdata?     duplicateallowed?       mutable?        inserorder?
+---------------     ------      --------------------    -------------------   ------------      -----------
+list                 []              yes                       yes                 yes              yes
+
+tuple                ()              yes                       yes                 no               yes
+
+set                 set()            yes                       no                  yes              no
+
+
+
+
+

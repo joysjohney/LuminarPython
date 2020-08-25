@@ -1,0 +1,12 @@
+4) Dictionary (05/08/2020)
+--------------
+> dict={}
+> Data's are stored in the form of key:value pair.
+  eg: name:ajay
+        name - key , ajay - value
+
+> Duplicate keys are not allowed.
+> Values may be duplicate.
+> If we want to fetch a value we have to use corresponding key.
+> Check a key in dictionary we use "in" operator
+    eg: print("key" in dictname)

@@ -1,0 +1,30 @@
+Functional Programming (13/08/2020)
+=======================
+
+> To reduce length of the code
+
+1. Lambda function > anonymous function
+2. Map function
+3. Filter function
+4. List comprehension function
+5. Reduce function
+
+
+1. Lambda function
+------------------
+f=lambda num1,num2: num1+num2
+print(f(10,20))
+
+
+2. Map()
+-------
+> Predefined function
+> map(function,iterables)
+
+3. List()
+----------
+> filter(function,iterables)
+
+
+4. Reduce()
+-------------

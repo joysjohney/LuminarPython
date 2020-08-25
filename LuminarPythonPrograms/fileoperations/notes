@@ -1,0 +1,15 @@
+File operations (06/08/2020)
+----------------------------
+> To store the data
+
+> File operations
+    > Read - r
+    > write - w
+    > append - a
+
+> Creating file reference
+    f=open("file path","mode of operation")
+
+> rstrip() - It is used to remove trailing character.
+> lstrip() - It is used to remove leading character.
+

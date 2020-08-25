@@ -1,0 +1,7 @@
+3) Set
+-------
+> define empty set()
+> possible to store different type of data
+> duplicate values are not allowed
+> insertion order is not preserved
+> indexing or slicing not supported in set

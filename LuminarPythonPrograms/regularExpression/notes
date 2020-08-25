@@ -1,0 +1,11 @@
+Regular Expressions (17/08/2020)
+-------------------
+> Used for pattern matching
+
+> Step1: we have to import re module
+
+    import re
+eg: matcher=re.finder("ab","abababababababab")
+
+
+
