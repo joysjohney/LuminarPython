@@ -1,0 +1,19 @@
+HTML - for placing content  (28/09/2020)
+--------------------------
+Various tags
+------------
+<!DOCTYPE html> following is a html tag
+
+<h1> heading tag h1 to h6</h1>
+
+for bold - <b>bold</b> or <strong>bold</strong>
+italic - <i>italic</i> or <em>italic</em>
+unorderd list - <ul></u>
+orderd list - <ol></ol>
+for listing - <li></li>
+
+Table tag - <table></table>
+---------
+table row - <tr></tr>
+table cell - <td></td>
+ancher tag - <a href =""></a>

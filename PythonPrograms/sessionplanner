@@ -231,13 +231,13 @@ print(res)
 
 frontend
 ========
-html
-css
+html (28/09/2020)
+css (30/09/2020)
 bootstrap
-javascript
+javascript 
 ajax,jquery
 
-
+*****(tkinter used for developing desktop applications)******
 --------------------------------------------------------------------------------------------------------------------
 
 6) Python to Database Connection
@@ -250,12 +250,6 @@ ajax,jquery
 
 7) Git and Github(vcs)version control system
    ===========================================
-
-
-
-
-
-
 
 
 
