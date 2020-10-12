@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc2884b-d7f7-438d-af51-c3ca6fd98a46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cqlsOkmJ0EVRUHr1yfnJKR713f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FrontEnds/bootstrap/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\FrontEnds\bootstrap\images" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\FrontEnds\html\images" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\Exam" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\functionalprogramming" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\fileoperations\covidanalysis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\MyJavaScriptPgms\decisionmaking\ifelseif" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\FrontEnds\html" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\fileoperations\number" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\fileoperations\fileprogram" />
+      <recent name="C:\Users\Joys Johny\PycharmProjects\Luminar\fileoperations\wordcount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.multifirst">
+    <configuration name="covid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Luminar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/covid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emppgrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Luminar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MysqlQueries" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MysqlQueries/emppgrm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Luminar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exam/exam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multifirst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Luminar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multithreading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multithreading/multifirst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multithreading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Luminar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Multithreading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multithreading/multithreading.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.multifirst" />
+        <item itemvalue="Python.multithreading" />
+        <item itemvalue="Python.emppgrm" />
+        <item itemvalue="Python.exam" />
+        <item itemvalue="Python.covid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc2884b-d7f7-438d-af51-c3ca6fd98a46" name="Default Changelist" comment="" />
+      <created>1591264209695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591264209695</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="474" y="270" key="#Firefox_Settings" timestamp="1602429352165">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="474" y="270" key="#Firefox_Settings/0.0.1366.738@0.0.1366.738" timestamp="1602429352165" />
+    <state x="475" y="227" key="#Scopes" timestamp="1596729129357">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="227" key="#Scopes/0.0.1366.738@0.0.1366.738" timestamp="1596729129357" />
+    <state x="486" y="158" key="#Web_Browsers" timestamp="1602429364526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="486" y="158" key="#Web_Browsers/0.0.1366.738@0.0.1366.738" timestamp="1602429364526" />
+    <state x="429" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602523290315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="429" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1602523290315" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1602429350439">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602429350439" />
+    <state width="365" height="452" key="GridCell.Tab.0.bottom" timestamp="1602512158392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="365" height="452" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602512158392" />
+    <state width="365" height="452" key="GridCell.Tab.0.center" timestamp="1602512158392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="365" height="452" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602512158392" />
+    <state width="365" height="452" key="GridCell.Tab.0.left" timestamp="1602512158392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="365" height="452" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602512158392" />
+    <state width="365" height="452" key="GridCell.Tab.0.right" timestamp="1602512158392">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="365" height="452" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602512158392" />
+    <state width="243" height="227" key="GridCell.Tab.1.bottom" timestamp="1600144759289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="243" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600144759289" />
+    <state width="243" height="227" key="GridCell.Tab.1.center" timestamp="1600144759289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="243" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1600144759289" />
+    <state width="243" height="227" key="GridCell.Tab.1.left" timestamp="1600144759289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="243" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1600144759289" />
+    <state width="243" height="227" key="GridCell.Tab.1.right" timestamp="1600144759289">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="243" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1600144759289" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1601648148424">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601648148424" />
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600143877949">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1600143877949" />
+    <state x="291" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601269635658">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="291" y="47" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738@0.0.1366.738" timestamp="1601269635658" />
+    <state x="475" y="228" key="scopes" timestamp="1596728688992">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="475" y="228" key="scopes/0.0.1366.738@0.0.1366.738" timestamp="1596728688992" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601958698856">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1601958698856" />
+  </component>
+</project>
