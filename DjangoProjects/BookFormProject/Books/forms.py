@@ -18,7 +18,7 @@ class BookForm(ModelForm):
             msg = "Book already exist"
             self.add_error("book_name", msg)
         if price < 100:
-            msg = "Enter correct price"
+            msg = "Please enter correct price"
             self.add_error("price", msg)
         if page < 50:
             msg = "Pages should be greater than 50"
