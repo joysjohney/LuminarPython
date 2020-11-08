@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Registration</title>
+</head>
+<body>
+<h3>Employee Registration</h3>
+<hr>
+<form method="post" action="{%url 'signUp'%}">
+{% csrf_token %}
+    name:<input type="text" name="first"><br><br>
+    email:<input type="email" name="email"><br><br>
+    username:<input type="text" name="uname"><br><br>
+    password:<input type="password" name="password"><br><br>
+    salary:<input type="salary" name="salary"><br><br>
+    <input type="submit" value="register">
+</form>
+
+</body>
+<hr>
+</html>

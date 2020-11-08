@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Registration</title>
+    <!-- CSS only -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+</head>
+<body>
+
+<h1><center><u>Register here..</u></center></h1>
+
+
+<div class="container">
+<form method="post" action="{url 'getRegDetails' %}">
+{% csrf_token %}
+    <div class="form-group">
+        <label for="name">First name</label>
+        <input type="text" name="name"  class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="lname">Last name</label>
+        <input type="text" name="" id="lname" class="form-control">
+     </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" name="" id="email" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Phone Number</label>
+        <input type="text" name="" id="phone" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="">Address</label>
+        <textarea class="form-control"></textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="">Select course</label>
+        <select name="" id="" class="form-control">
+            <option value="">MeanStack</option>
+            <option value="">Django</option>
+            <option value="">Android</option>
+        </select>
+     </div>
+
+    <div class="form-group">
+        <label for="">Username</label>
+        <input type="text" name="email" id="" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label for="">Password</label>
+        <input type="password" name="pwd" id="" class="form-control">
+    </div>
+
+
+   <button type="submit" class="btn btn-primary mb-2">Submit</button>
+    <a href="http://127.0.0.1:8000/student/studlog/">Already registered? Login now</a>
+
+
+
+</form>
+</div>
+
+</body>
+</html>
